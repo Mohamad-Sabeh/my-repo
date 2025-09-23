@@ -78,7 +78,7 @@
 
 <div align="center">
     <img src="https://media.tenor.com/sNIbebDwG_EAAAAM/dedsec.gif" width="40">
-    <img alt="visitors counter" src="https://views-counter.vercel.app/badge?pageId=MohamadSabeh%2FViews-Counter">
+    <img alt="visitors counter" src="https://views-counter.vercel.app/badge?pageId=gamersabeh%2FViews-Counter">
     <img src="https://media.tenor.com/sNIbebDwG_EAAAAM/dedsec.gif" width="40">
 </div>
 
