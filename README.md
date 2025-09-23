@@ -13,13 +13,15 @@
 
 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="35">&nbsp;***About Me***
 
-- 🎓 Computer Science student  
+🎓 Computer Science student  
 - 💻 Exploring **back-end & front-end development**  
 - 🚀 Passionate about building creative and fun projects  
-- 📚 Currently learning:
+- 📚 Currently learning:  
   - Natural Language Processing (NLP)  
-  - Constraint Programming + Machine Learning  
-- 🎮 Outside of tech: gaming, music 🎵, and playing instruments 🎸  
+  - Deep Learning & Machine Learning  
+  - Constraint Programming  
+- 🎮 Outside of tech: gaming and music 🎵  
+
 
 ---
 
