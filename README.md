@@ -13,7 +13,7 @@
 
 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="35">&nbsp;***About Me***
 
-🎓 Computer Science student  
+🎓 Lebanese International University (LIU) Computer Science graduate  
 - 💻 Exploring **back-end & front-end web development**  
 - 🚀 Passionate about building creative and fun projects  
 - 📚 Currently learning:  
