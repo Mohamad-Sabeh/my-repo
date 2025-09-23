@@ -13,7 +13,7 @@
 
 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="35">&nbsp;***About Me***
 
-🎓 Lebanese International University (LIU) Computer Science graduate  
+🎓Computer Science Graduate, Lebanese International University (LIU) , Graduated 2025
 - 💻 Exploring **back-end & front-end web development**  
 - 🚀 Passionate about building creative and fun projects  
 - 📚 Currently learning:  
