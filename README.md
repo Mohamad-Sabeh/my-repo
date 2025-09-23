@@ -3,8 +3,9 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Anazax/Anazax/main/assets/Cat.gif" alt="Cute Cat" width="150"/>
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Coding GIF" width="150"/>
 </p>
+
 
 <h3 align="center">🚀 Improving my coding skills & building practice projects</h3>
 
