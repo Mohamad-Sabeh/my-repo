@@ -69,9 +69,9 @@
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohamadSabeh&theme=nightowl&show_icons=true&count_private=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamadSabeh&theme=nightowl&hide_border=false" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamadSabeh&theme=nightowl&hide_border=false&langs_count=8"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=gamersabeh&theme=nightowl&show_icons=true&count_private=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gamersabeh&theme=nightowl&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gamersabeh&theme=nightowl&hide_border=false&langs_count=8"/>
 </p>
 
 ---
