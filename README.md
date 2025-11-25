@@ -13,7 +13,7 @@
 
 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="35">&nbsp;***About Me***
 
-🎓Computer Science Graduate, Lebanese International University (LIU) , Graduated 2025
+🎓 Computer Science Graduate, Lebanese International University (LIU), Graduated 2025  
 - 💻 Exploring **back-end & front-end web development**  
 - 🚀 Passionate about building creative and fun projects  
 - 📚 Currently learning:  
@@ -23,10 +23,10 @@
 
 ---
 
+## 🏆 GitHub Trophy
+
 <div align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=gamersabeh&theme=dark_lover&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" width="90%" />
-    </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=MohamadSabeh&theme=dark_lover&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" width="90%" />
 </div>
 
 ---
@@ -77,16 +77,16 @@
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gamersabeh&theme=nightowl&show_icons=true&count_private=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gamersabeh&theme=nightowl&hide_border=false" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gamersabeh&theme=nightowl&hide_border=false&langs_count=8"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MohamadSabeh&theme=nightowl&show_icons=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamadSabeh&theme=nightowl" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamadSabeh&theme=nightowl&langs_count=8" />
 </p>
 
 ---
 
 <div align="center">
     <img src="https://media.tenor.com/sNIbebDwG_EAAAAM/dedsec.gif" width="40">
-    <img alt="visitors counter" src="https://views-counter.vercel.app/badge?pageId=gamersabeh%2FViews-Counter">
+    <img alt="visitors counter" src="https://views-counter.vercel.app/badge?pageId=MohamadSabeh-profile">
     <img src="https://media.tenor.com/sNIbebDwG_EAAAAM/dedsec.gif" width="40">
 </div>
 
