@@ -1,7 +1,7 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 <h1 align="center">
-  <b>Hi there, I'm <a href="https://github.com/MohamadSabeh">Mohamad Sabeh</a></b> 
+  <b>Hi there, I'm <a href="https://github.com/Mohamad-Sabeh">Mohamad Sabeh</a></b> 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
 
@@ -26,7 +26,7 @@
 ## 🏆 GitHub Trophy
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MohamadSabeh&theme=dark_lover&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" width="90%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Mohamad-Sabeh&theme=dark_lover&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" width="90%" />
 </div>
 
 ---
@@ -77,16 +77,16 @@
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohamadSabeh&theme=nightowl&show_icons=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamadSabeh&theme=nightowl" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamadSabeh&theme=nightowl&langs_count=8" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohamad-Sabeh&theme=nightowl&show_icons=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamad-Sabeh&theme=nightowl" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamad-Sabeh&theme=nightowl&langs_count=8" />
 </p>
 
 ---
 
 <div align="center">
     <img src="https://media.tenor.com/sNIbebDwG_EAAAAM/dedsec.gif" width="40">
-    <img alt="visitors counter" src="https://views-counter.vercel.app/badge?pageId=MohamadSabeh-profile">
+    <img alt="visitors counter" src="https://views-counter.vercel.app/badge?pageId=Mohamad-Sabeh-profile">
     <img src="https://media.tenor.com/sNIbebDwG_EAAAAM/dedsec.gif" width="40">
 </div>
 
